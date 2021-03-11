@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>daichi</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://ground565.github.io/portfolioo/style.css">
 </head>
 <!--↓wrapper↓-->
 <body>
