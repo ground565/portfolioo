@@ -87,8 +87,8 @@ li{
 	line-height:40px; /* pタグのテキストの文章の高さを指定できます。 */
 }
 
-pre{
-  letter-spacing: 5px;
+main{
+  background-color: #808080;
 }
 
 .main-blog{
