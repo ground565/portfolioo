@@ -94,3 +94,7 @@ pre{
   display: flex;
   justify-content: start;
 }
+
+.main-blog p{
+  line-height: 20px;
+}
