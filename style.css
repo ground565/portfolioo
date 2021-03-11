@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #696969;
+   box-sizing : border-box ;
+}
+
+header{
+
+
+}
+
+.top{
+  background-color:#6495ED;
+  margin-left:20px;
+}
+
+img{
+  border-radius: 20px;
+}
+
+.top-text{
+}
+
+.header{
+  height:200px;
+}
+
+.plofile-container{
+}
+
+.twitter-item{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.container header{
+}
+
+.navigation{
+  display: flex;
+  justify-content: space-between;
+}
+
+.navigation-container{
+  display: flex;
+  justify-content: center;
+}
+
+nav ul{
+  list-style: none;
+  display:flex;
+  justify-content: flex-end; /* 行末寄せ、通常は右揃え */
+/*	text-align: center;*/
+	position: relative; /*リストを中央揃えにする準備開始。リラティブにしておきます*/
+  float:left;
+}
+
+.plofile-img{
+  display: flex;
+  justify-content: flex-end;
+}
+
+li{
+
+}
+
+.btn-item{
+  padding:10px 30px;
+  margin:2.5px;
+  background-color: rgba(135, 206, 235,1);
+  border-radius: 5px;
+  text-align: center;
+  color:white;
+}
+
+.belief-text{
+	line-height:40px; /* pタグのテキストの文章の高さを指定できます。 */
+}
+
+pre{
+  letter-spacing: 5px;
+}
+
+.main-blog{
+  display: flex;
+  justify-content: start;
+}
